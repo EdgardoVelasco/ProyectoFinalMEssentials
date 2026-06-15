@@ -21,6 +21,7 @@ Se requiere que este microservicio tenga las siguientes funciones:
 3. actualizar un producto por id
 4. mostrar todos los productos
 5. buscar producto por id. 
+6. eliminar producto por id.
 
 ### Requerimientos
 Al final el alumno debe de tener:
